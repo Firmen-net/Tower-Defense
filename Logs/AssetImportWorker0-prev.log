@@ -1,0 +1,190 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.14f1 (d0d1bb862f9d) revision 13685179'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.1288; Version 2009; 64bit' Language: 'en' Physical Memory: 8002 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/madur/OneDrive/Dokumen/Unity Project/Tower Defense
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62629
+Successfully changed project path to: C:/Users/madur/OneDrive/Dokumen/Unity Project/Tower Defense
+C:/Users/madur/OneDrive/Dokumen/Unity Project/Tower Defense
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 60.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.14f1 (d0d1bb862f9d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/madur/OneDrive/Dokumen/Unity Project/Tower Defense/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 560X (ID=0x67ef)
+    Vendor:   
+    VRAM:     4076 MB
+    Driver:   26.20.12036.4002
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56800
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002789 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 59.05 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.923 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1924ms)
+		BeginReloadAssembly (121ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (677ms)
+			LoadAssemblies (117ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (238ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (269ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (59ms)
+				BeforeProcessingInitializeOnLoad (20ms)
+				ProcessInitializeOnLoadAttributes (133ms)
+				ProcessInitializeOnLoadMethodAttributes (50ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005878 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 63.93 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.773 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1775ms)
+		BeginReloadAssembly (230ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (25ms)
+		EndReloadAssembly (1444ms)
+			LoadAssemblies (150ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (440ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (102ms)
+			SetupLoadedEditorAssemblies (583ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (64ms)
+				BeforeProcessingInitializeOnLoad (162ms)
+				ProcessInitializeOnLoadAttributes (320ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.50 seconds
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2087 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.3 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2521.
+Total: 4.629500 ms (FindLiveObjects: 0.248300 ms CreateObjectMapping: 0.053400 ms MarkObjects: 3.759200 ms  DeleteObjects: 0.565500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/Tower 1.prefab
+  artifactKey: Guid(068963a4f491cdc4cae2b89408719815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tower 1.prefab using Guid(068963a4f491cdc4cae2b89408719815) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff7153368b2 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff715301f22 (Unity) ResolveArtifactV2
+0x00007ff7153218e0 (Unity) ImportToObjects
+0x00007ff715320ce8 (Unity) ImportAsset
+0x00007ff715282d28 (Unity) AssetImportWorker::Import
+0x00007ff7152d69cf (Unity) <lambda_e7e5f5e49556456463706cfa5dd72d0a>::operator()
+0x00007ff715379fb2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff71537c110 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff71537f89e (Unity) asio::io_service::run
+0x00007ff715302c3b (Unity) RunAssetImportWorkerClientV2
+0x00007ff715302c90 (Unity) RunAssetImporterV2
+0x00007ff7147dced6 (Unity) Application::InitializeProject
+0x00007ff7151727c2 (Unity) WinMain
+0x00007ff716fba396 (Unity) __scrt_common_main_seh
+0x00007ffe71c97034 (KERNEL32) BaseThreadInitThunk
+0x00007ffe737c2651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(068963a4f491cdc4cae2b89408719815) Importer(-1,00000000000000000000000000000000), Assets/Prefabs/Tower 1.prefab from editor
+Resuming Guid(068963a4f491cdc4cae2b89408719815) Importer(-1,00000000000000000000000000000000) -> 00000000000000000000000000000000 (aborted)
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff7153368b2 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff715301f22 (Unity) ResolveArtifactV2
+0x00007ff7152f8ce1 (Unity) ProduceArtifactV2
+0x00007ff715247efe (Unity) AssetDatabase::ProduceArtifact
+0x00007ff71522d4b8 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff715321ca9 (Unity) ImportToObjects
+0x00007ff715320ce8 (Unity) ImportAsset
+0x00007ff715282d28 (Unity) AssetImportWorker::Import
+0x00007ff7152d69cf (Unity) <lambda_e7e5f5e49556456463706cfa5dd72d0a>::operator()
+0x00007ff715379fb2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff71537c110 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff71537f89e (Unity) asio::io_service::run
+0x00007ff715302c3b (Unity) RunAssetImportWorkerClientV2
+0x00007ff715302c90 (Unity) RunAssetImporterV2
+0x00007ff7147dced6 (Unity) Application::InitializeProject
+0x00007ff7151727c2 (Unity) WinMain
+0x00007ff716fba396 (Unity) __scrt_common_main_seh
+0x00007ffe71c97034 (KERNEL32) BaseThreadInitThunk
+0x00007ffe737c2651 (ntdll) RtlUserThreadStart
+
+Sub-import of Guid(068963a4f491cdc4cae2b89408719815) Importer(-1,00000000000000000000000000000000), Assets/Prefabs/Tower 1.prefab skipped because a previous one failed already
+ -> (artifact id: 'c82ddd3f88456220d7238e1d451f634c') in 27.171935 seconds 
+  Import took 27.176227 seconds (was aborted).
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014876 seconds.
+  path: Assets/Prefabs/Tower 1.prefab
+  artifactKey: Guid(068963a4f491cdc4cae2b89408719815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tower 1.prefab using Guid(068963a4f491cdc4cae2b89408719815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01e0e25fce0c8fdf83a6bbea15d2c841') in 0.823763 seconds 
+  Import took 0.864542 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
